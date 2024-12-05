@@ -7,7 +7,7 @@ To get the selenium run properly is the hosting server you need to install the c
 
 To run Dig in any server or codespace
 sudo apt update
-sudo apt install dnsutils -y
+sudo apt install dnsutils -yt
 
 To install chrome in codespace or server use
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
